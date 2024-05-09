@@ -52,13 +52,17 @@ This document is intended for developers, project managers, and organizations lo
 
 1. **Localization:** Efforts to localize the project to support multiple languages are RECOMMENDED to increase accessibility and global reach.
 
-2. **Accessibility Features:** Projects SHOULD incorporate accessibility features to ensure usability by people with disabilities. This includes adhering to the Web Content Accessibility Guidelines (WCAG).
+2. **Accessibility Features:** Projects MUST incorporate at least basic accessibility features to ensure usability by people with disabilities. This includes adhering to the Web Content Accessibility Guidelines (WCAG).
+
+3. **Responsive Design:** Projects are RECOMMENDED to use responsive web design practices to ensure convenient usability across various devices and screen sizes.
 
 ### 6. Recommended Features
 
 1. **API Extensibility:** Where applicable, offering an extensible API is RECOMMENDED for projects, allowing third-party developers to create plugins or extensions easily.
 
 2. **Federation:** Where applicable, projects are RECOMMENDED to support federation to enhance interoperability and expand user networks. This includes adhering to common federation protocols and standards, like ActivityPub.
+
+3. **Two-Factor Authentication:** For projects incorporating a user account system, it is RECOMMENDED to implement a Two-Factor Authentication (2FA) feature, especially for administrative and sensitive access levels. This should include options for both hardware and software token-based methods to provide flexibility and increased security for users.
 
 ### 7. Ease of Deployment
 
