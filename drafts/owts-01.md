@@ -36,7 +36,7 @@ This document is intended for developers, project managers, and organizations lo
 
 ### 3. Release Process and Distribution
 
-1. **Versioning:** Projects MUST implement a clear versioning policy, ideally adhering to Semantic Versioning, to help users and developers track changes and updates effectively.
+1. **Versioning:** Projects MUST implement a clear versioning policy, ideally adhering to [Semantic Versioning](https://semver.org/), to help users and developers track changes and updates effectively.
 
 2. **Regular Updates:** Projects SHOULD demonstrate active maintenance through regular updates, feature enhancements, and bug fixes, showing ongoing commitment to improvement and community needs.
 
@@ -52,7 +52,7 @@ This document is intended for developers, project managers, and organizations lo
 
 1. **Localization:** Efforts to localize the project to support multiple languages are RECOMMENDED to increase accessibility and global reach.
 
-2. **Accessibility Features:** Projects MUST incorporate at least basic accessibility features to ensure usability by people with disabilities. This includes adhering to the Web Content Accessibility Guidelines (WCAG).
+2. **Accessibility Features:** Projects MUST incorporate at least basic accessibility features to ensure usability by people with disabilities. This includes adhering to the [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/).
 
 3. **Responsive Design:** Projects are RECOMMENDED to use responsive web design practices to ensure convenient usability across various devices and screen sizes.
 
