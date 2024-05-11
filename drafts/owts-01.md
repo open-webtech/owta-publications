@@ -69,3 +69,15 @@ This document is intended for developers, project managers, and organizations lo
 1. **Containerization:** To ensure that applications can be easily deployed and managed, projects MUST support containerization. This includes providing a Dockerfile and a docker-compose.yml template in the repository.
 
 2. **Configuration Management:** Projects are RECOMMENDED to offer support for popular configuration management tools like Ansible, Chef, or Puppet to streamline the deployment process.
+
+### 8. Coding Practices and Compatibility
+
+1. **Coding Standards:** The use of modern coding practices and standards as well as a widely accepted, uniform coding style is REQUIRED to maintain good code quality and readability.
+
+2. **Cross-platform Support:** It is RECOMMENDED that projects ensure compatibility with multiple operating systems and platforms to maximize user reach.
+
+### 9. Community
+
+1. **Welcoming Community:** It is RECOMMENDED that projects define a code of conduct that aligns with the principles of openness, collaboration, and inclusivity. This includes adding a `CODE_OF_CONDUCT(.md)` file in the repository. By establishing clear guidelines and expectations for behavior, projects can ensure that all participants feel valued and supported, promoting a healthier and more productive community interaction.
+
+2. **Community Bridging:** When using walled garden services like Discord for the main community hub, it is RECOMMENDED to utilize solutions for bridging to multiple communication services. This approach ensures that the community remains open and accessible to a broad audience.
