@@ -82,4 +82,4 @@ This document is intended for developers, project managers, and organizations lo
 
 1. **Welcoming Community:** It is RECOMMENDED that projects define a code of conduct that aligns with the principles of openness, collaboration, and inclusivity. This includes adding a `CODE_OF_CONDUCT(.md)` file in the repository. By establishing clear guidelines and expectations for behavior, projects can ensure that all participants feel valued and supported, promoting a healthier and more productive community interaction.
 
-2. **Community Bridging:** When using walled garden services like Discord for the main community hub, it is RECOMMENDED to utilize solutions for bridging to multiple communication services. This approach ensures that the community remains open and accessible to a broad audience.
+2. **Community Bridging:** When using walled garden services like Discord for the main community hub, it is RECOMMENDED to utilize solutions for bridging to multiple other, ideally open communication services. This approach ensures that the community remains open and accessible to a broad audience.
