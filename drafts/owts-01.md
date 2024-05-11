@@ -10,6 +10,8 @@ Following these guidelines allows projects and products to achieve a certificati
 
 ## Document Conventions
 
+The term "Project" stands for a mostly collaborative endeavor that involves the development and management of software applications or services. Projects include, but are not limited to, web applications, tools, frameworks, and APIs designed for public use or organizational purposes.
+
 The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this document are to be interpreted as described in [IETF RFC 2119](https://datatracker.ietf.org/doc/html/rfc2119).
 
 ## Intended Audience and Reading Suggestions
@@ -22,7 +24,7 @@ This document is intended for developers, project managers, and organizations lo
 
 1. **Licensing:** Projects MUST be licensed under a Free/Libre and Open Source Software (FLOSS) license. Acceptable licenses include, but are not limited to, GPL, Apache, and MIT licenses. This requirement ensures that the software remains free to use, modify, and distribute.
 
-2. **Access:** To allow for open access and collaboration, the source code MUST be hosted on a public repository platform such as GitHub or GitLab.
+2. **Access:** To allow for open access and collaboration, the project's source code MUST be hosted on a public repository platform such as GitHub or GitLab.
 
 3. **Accepting Contributions:** Projects SHOULD include a `CONTRIBUTING(.md)` file, outlining how other developers can contribute to the project, the process for submitting pull requests, and guidelines for coding standards.
 
