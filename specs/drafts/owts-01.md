@@ -10,6 +10,8 @@ Following these guidelines allows projects and products to achieve a certificati
 
 ## Document Conventions
 
+The term "WebTech" or "Web Technologies" refers to modern applications, APIs, and protocols built upon the open and versatile platform of the Web. "Open WebTech" further extends this concept by emphasizing free and open-source software principles, inclusivity within a friendly community, and user-centricity.
+
 The term "Project" stands for a mostly collaborative endeavor that involves the development and management of software applications or services. Projects include, but are not limited to, web applications, tools, frameworks, and APIs designed for public use or organizational purposes.
 
 The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this document are to be interpreted as described in [IETF RFC 2119](https://datatracker.ietf.org/doc/html/rfc2119).
