@@ -1,9 +1,11 @@
-# OWTA Specifications
+# OWTA Publications
 
-This repository holds specifications (OWTS) developed by the Open WebTech Association.
+This repository holds specifications and other publications by the Open WebTech Association.
 
-## List of Specifications
+## List of Publications
 
-### Drafts
+### Specifications (OWTS)
 
-- [OWTS-01: Guidelines for Open Web Technologies](./drafts/owts-01.md)
+#### Drafts
+
+- [OWTS-01: Guidelines for Open Web Technologies](specs/drafts/owts-01.md)
