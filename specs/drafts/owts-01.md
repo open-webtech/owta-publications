@@ -10,7 +10,7 @@ Following these guidelines allows projects and products to achieve a certificati
 
 ## Document Conventions
 
-The term "WebTech" or "Web Technologies" refers to modern applications, APIs, and protocols built upon the open and versatile platform of the Web. "Open WebTech" further extends this concept by emphasizing free and open-source software principles, inclusivity within a friendly community, and user-centricity.
+The term "WebTech" or "Web Technologies" refers to modern applications, APIs, and protocols built upon the open and versatile platform of the Web. "Open WebTech" further extends this concept by emphasizing free and open-source software principles, inclusivity within a friendly community, and user-centricity. For a more detailed definition, see the meta document "[Definition of WebTech](/meta/webtech-definition.md)".
 
 The term "Project" stands for a mostly collaborative endeavor that involves the development and management of software applications or services. Projects include, but are not limited to, web applications, tools, frameworks, and APIs designed for public use or organizational purposes.
 
