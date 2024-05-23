@@ -14,3 +14,4 @@ This repository holds specifications and other publications by the Open WebTech 
 
 - [Definition of WebTech](meta/webtech-definition.md)
 - [Related Initiatives](meta/related-initiatives.md)
+- [Why Federation?](meta/why-federation.md)
