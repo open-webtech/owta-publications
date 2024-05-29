@@ -2,6 +2,8 @@
 
 This list features initiatives that share similar goals and values with the [Open WebTech Association](https://owta.dev).
 
+- **[FOSS Gaming Union](https://fgu.iceflame.org)** – A welcoming community for both players and developers of open-source games.
+
 - **[IndieWeb](https://indieweb.org)** – A community of independent and personal websites connected by open standards, emphasizing owning your domain and using it as your primary online identity, publishing on your own site first, and owning your content.
 
 - **[Manifesto for a Humane Web](https://humanewebmanifesto.com)** – The web is increasingly hostile to humans due to privacy violations, ad-filled search results, and spam bots. Users face issues with slow-loading sites and electronic waste. This is a call is for a web by and for humans.
