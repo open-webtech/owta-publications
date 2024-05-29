@@ -2,6 +2,8 @@
 
 This list features initiatives that share similar goals and values with the [Open WebTech Association](https://owta.dev).
 
+- **[Commune](https://github.com/commune-os)** – Besides being an excellent chat software project, it is also a vibrant community of like-minded individuals who share a common vision. They have a [blog with great articles](https://blog.commune.sh) too.
+
 - **[FOSS Gaming Union](https://fgu.iceflame.org)** – A welcoming community for both players and developers of open-source games.
 
 - **[IndieWeb](https://indieweb.org)** – A community of independent and personal websites connected by open standards, emphasizing owning your domain and using it as your primary online identity, publishing on your own site first, and owning your content.
