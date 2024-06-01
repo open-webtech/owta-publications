@@ -12,4 +12,6 @@ This list features initiatives that share similar goals and values with the [Ope
 
 - **[Small Technology Foundation](https://small-tech.org)** – A two-person not-for-profit based in Ireland, working on building the [Small Web](https://ar.al/2020/08/07/what-is-the-small-web/), which they describe as [Web0](https://web0.small-web.org) rather than Web3. They create everyday tools for everyday people, prioritizing human welfare over corporate profits.
 
+- **[Software Commons](https://softwarecommons.com)** – An [initiative by Chad Whitacre](https://openpath.chadwhitacre.com/2024/a-vision-for-software-commons/) aiming to bring together companies, foundations, and platforms to resolve [the Open Source sustainability crisis](https://openpath.chadwhitacre.com/2024/the-open-source-sustainability-crisis/).
+
 - **[verses](https://verses.xyz)** – A collective of writers, researchers, and technologists co-imagining, practicing, and building a healthier cyberspace.
