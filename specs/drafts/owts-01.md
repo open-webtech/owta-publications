@@ -8,7 +8,7 @@ This specification outlines technical and structural guidelines that projects an
 
 Following these guidelines allows projects and products to achieve a certification by OWTA. This ensures and confirms that technologies meet these standards. The full process from application to gaining a certification is described in detail in an external document.
 
-## Document Conventions
+## Conventions and Definitions
 
 The term "WebTech" or "Web Technologies" refers to modern applications, APIs, and protocols built upon the open and versatile platform of the Web. "Open WebTech" further extends this concept by emphasizing free and open-source software principles, inclusivity within a friendly community, and user-centricity. For a more detailed definition, see the meta document "[Definition of WebTech](/meta/webtech-definition.md)".
 
@@ -70,7 +70,7 @@ This document is intended for developers, project managers, and organizations lo
 
 ### 7. Ease of Deployment
 
-1. **Containerization:** To ensure that applications can be easily deployed and managed, projects MUST support containerization. This includes providing a Dockerfile and a docker-compose.yml template in the repository.
+1. **Containerization:** To ensure that applications can be easily deployed and managed, projects MUST support containerization. This includes providing a `Dockerfile` and a `docker-compose.yml` template in the repository.
 
 2. **Configuration Management:** Projects are RECOMMENDED to offer support for popular configuration management tools like Ansible, Chef, or Puppet to streamline the deployment process.
 
