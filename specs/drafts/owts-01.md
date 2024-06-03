@@ -36,7 +36,7 @@ This document is intended for developers, project managers, and organizations lo
 
 2. **Testing:** All projects MUST include automated tests to verify functionality across updates. Continuous Integration (CI) SHOULD be set up to run tests automatically on all commits to the main branch of the repository.
 
-3. **Security Practices:** Projects MUST adhere to current security best practices, including regular dependency updates to mitigate vulnerabilities. A `SECURITY(.md)` file is RECOMMENDED, providing users with information on how to report security issues and a brief overview of the project's security measures.
+3. **Security Practices:** Projects MUST adhere to current security best practices. Regular dependency updates are RECOMMENDED to mitigate vulnerabilities. A `SECURITY(.md)` file SHOULD be provided in the repository, providing users with information on how to report security issues and a brief overview of the project's security measures.
 
 ### 3. Release Process and Distribution
 
@@ -70,7 +70,7 @@ This document is intended for developers, project managers, and organizations lo
 
 ### 7. Ease of Deployment
 
-1. **Containerization:** To ensure that applications can be easily deployed and managed, projects MUST support containerization. This includes providing a `Dockerfile` and a `docker-compose.yml` template in the repository.
+1. **Containerization:** To ensure that applications can be easily deployed and managed, projects SHOULD support containerization. This includes providing a `Dockerfile` and a `docker-compose.yml` template in the repository.
 
 2. **Configuration Management:** Projects are RECOMMENDED to offer support for popular configuration management tools like Ansible, Chef, or Puppet to streamline the deployment process.
 
