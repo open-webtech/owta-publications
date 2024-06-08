@@ -12,6 +12,8 @@ This list features initiatives that share similar goals and values with the [Ope
 
 - **[verses](https://verses.xyz)** – A collective of writers, researchers, and technologists co-imagining, practicing, and building a healthier cyberspace.
 
+- **[Web We Want](https://webwewant.fyi)** – A project that collects feedback about the current state of the web, aiming to identify and solve problems or deficiencies in the web platform, developer tooling, or other areas. They travel to conferences and meetups globally to gather insights and help shape the future of the web.
+
 ## Open Source General
 
 - **[Commune](https://github.com/commune-os)** – Besides being an excellent chat software project, it is also a vibrant community of like-minded individuals who share a common vision. They have a [blog with great articles](https://blog.commune.sh) too.
