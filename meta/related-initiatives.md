@@ -32,6 +32,8 @@ This list features initiatives that share similar goals and values with the [Ope
 
 - 🤝 **[FOSS Gaming Union](https://fgu.iceflame.org)** – A welcoming community for both players and developers of free and open-source games.
 
+- 🤝 **[Social Coding](https://socialcoding.org)** – A movement promoting participatory free software development that is inclusive to all people and focused on addressing real human needs.
+
 ## Sustainability and Responsibility
 
 - 🤝 **[Software Commons](https://softwarecommons.com)** – An [initiative by Chad Whitacre](https://openpath.chadwhitacre.com/2024/a-vision-for-software-commons/) aiming to bring together companies, foundations, and platforms to resolve [the Open Source sustainability crisis](https://openpath.chadwhitacre.com/2024/the-open-source-sustainability-crisis/). Also targets non-open source-available software.
