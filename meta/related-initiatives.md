@@ -12,7 +12,7 @@ This list features initiatives that share similar goals and values with the [Ope
 
 ## Open and Independent Web
 
-- 👨‍👩‍👧‍👦 **[Federated Diversity Foundation](https://fedi.foundation)** – An online magazine and movement where Social Coding meets the Fediverse, helping empower Free Software Development and take the Fediverse to new heights.
+- 👨‍👩‍👧‍👦 **[Federated Diversity Foundation](https://fedi.foundation)** – An online magazine and collective where Social Coding meets the Fediverse, helping empower Free Software Development and take the Fediverse to new heights.
 
 - 👨‍👩‍👧‍👦 **[Fediverse Developer Network](https://fedidevs.org)** – A community for developers focused on building and enhancing projects within the Fediverse. It provides a shared repository of insights, best practices, and resources to support development and interoperability using Fediverse core protocols.
 
