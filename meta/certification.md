@@ -45,15 +45,11 @@ A complete application submission must include the following information:
 - **Certification Announcement:** Successful projects will be officially announced and added to the OWTA certified projects list.
 - **Certification Badge:** Projects will receive a certification badge to display on their website and promotional materials.
 
-## Criteria for Certification
+## Certification Tiers and Criteria
 
-All aspects specified in "[OWTS-01: Guidelines for Open Web Technologies](specs/drafts/owts-01.md)" are the criteria for OWTA certification.
+Projects can achieve Bronze, Silver, Gold, or Platinum certification depending on how many and which best practices and requirements from "[OWTS-01: Guidelines for Open Web Technologies](specs/drafts/owts-01.md)" they meet. This tiered approach is designed to be flexible and adaptable to a wide range of projects, whether small or mature.
 
-### Tiers
-
-Projects can achieve Bronze, Silver, Gold, or Platinum certification depending on how many and which best practices and requirements they meet. This tiered approach is designed to be flexible and adaptable to a wide range of projects, whether small or mature.
-
-#### Bronze
+### Bronze
 
 *Minimum Requirements:*
 
@@ -64,7 +60,7 @@ Projects can achieve Bronze, Silver, Gold, or Platinum certification depending o
 - The project defines a code of conduct that aligns with principles of openness, collaboration, and inclusivity.
 - The project has a `CODE_OF_CONDUCT(.md)` file in the repository.
 
-#### Silver
+### Silver
 
 *Additional Requirements (including all Bronze requirements):*
 
@@ -78,7 +74,7 @@ Projects can achieve Bronze, Silver, Gold, or Platinum certification depending o
 - The project provides technical documentation for developers.
 - The project includes a `CONTRIBUTING(.md)` and a `SECURITY(.md)` file.
 
-#### Gold
+### Gold
 
 *Additional Requirements (including all Bronze and Silver requirements):*
 
@@ -89,7 +85,7 @@ Projects can achieve Bronze, Silver, Gold, or Platinum certification depending o
 - The project supports federation protocols and offers an extensible API, where applicable.
 - The project implements Two-Factor Authentication (2FA) for user accounts, where applicable.
 
-#### Platinum
+### Platinum
 
 *Additional Requirements (including all Bronze, Silver, and Gold requirements):*
 
