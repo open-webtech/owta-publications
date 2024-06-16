@@ -1,5 +1,7 @@
 # OWTS-01: Guidelines for Open Web Technologies
 
+![Draft](https://img.shields.io/badge/status-draft-yellow.svg)
+
 ## Purpose and Background
 
 The Open WebTech Association (OWTA) advocates for the foundational principles of openness, innovation, and inclusivity in both the development and provision of web technologies.
