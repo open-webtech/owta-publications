@@ -1,5 +1,7 @@
 # OWTS-01: Guidelines for Open Web Technologies
 
+![Draft](https://img.shields.io/badge/status-draft-yellow.svg)
+
 ## Purpose and Background
 
 The Open WebTech Association (OWTA) advocates for the foundational principles of openness, innovation, and inclusivity in both the development and provision of web technologies.
@@ -8,7 +10,7 @@ This specification outlines technical and structural guidelines that projects an
 
 Following these guidelines allows projects and products to achieve a certification by OWTA. This ensures and confirms that technologies meet these standards. The full process from application to gaining a certification is described in detail in the meta document "[The Certification Process](/meta/certification.md)".
 
-## Document Conventions
+## Conventions and Definitions
 
 The term "WebTech" or "Web Technologies" refers to modern applications, APIs, and protocols built upon the open and versatile platform of the Web. "Open WebTech" further extends this concept by emphasizing free and open-source software principles, inclusivity within a friendly community, and user-centricity. For a more detailed definition, see the meta document "[Definition of WebTech](/meta/webtech-definition.md)".
 
@@ -36,7 +38,7 @@ This document is intended for developers, project managers, and organizations lo
 
 2. **Testing:** All projects MUST include automated tests to verify functionality across updates. Continuous Integration (CI) SHOULD be set up to run tests automatically on all commits to the main branch of the repository.
 
-3. **Security Practices:** Projects MUST adhere to current security best practices, including regular dependency updates to mitigate vulnerabilities. A `SECURITY(.md)` file is RECOMMENDED, providing users with information on how to report security issues and a brief overview of the project's security measures.
+3. **Security Practices:** Projects MUST adhere to current security best practices. Regular dependency updates are RECOMMENDED to mitigate vulnerabilities. A `SECURITY(.md)` file SHOULD be provided in the repository, providing users with information on how to report security issues and a brief overview of the project's security measures.
 
 ### 3. Release Process and Distribution
 
@@ -70,7 +72,7 @@ This document is intended for developers, project managers, and organizations lo
 
 ### 7. Ease of Deployment
 
-1. **Containerization:** To ensure that applications can be easily deployed and managed, projects MUST support containerization. This includes providing a Dockerfile and a docker-compose.yml template in the repository.
+1. **Containerization:** To ensure that applications can be easily deployed and managed, projects SHOULD support containerization. This includes providing a `Dockerfile` and a `docker-compose.yml` template in the repository.
 
 2. **Configuration Management:** Projects are RECOMMENDED to offer support for popular configuration management tools like Ansible, Chef, or Puppet to streamline the deployment process.
 
