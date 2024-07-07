@@ -18,12 +18,23 @@ Federated systems provide several technical advantages. First, by spreading data
 
 Several successful projects utilize federation to their advantage:
 
-- **Mastodon**: A social networking platform that uses federation to connect various independently operated servers, offering users a choice in their community environment.
-- **Matrix**: An open standard for decentralized communication, enabling secure messaging and VoIP across diverse networks.
-- **Nextcloud**: A self-hosted productivity platform that federates data storage and collaboration tools, providing users with control over their data.
+- **Mastodon**: A microblogging platform that uses the [ActivityPub] federation protocol to connect various independently operated servers. Users on different Mastodon instances can interact with each other seamlessly, creating a diverse and interconnected social network, while offering users a choice in their community environment.
+- **Matrix**: An open standard for decentralized communication, enabling secure messaging and VoIP across diverse networks. Matrix allows different chat applications to interoperate, giving users the freedom to choose their preferred client.
+- **Nextcloud**: While primarily a self-hosted productivity platform, Nextcloud offers some federation capabilities like Federated Cloud Sharing: Users can share files and folders with users on other Nextcloud instances, enabling cross-instance collaboration.
 
 ## Conclusion
 
 Federation offers a wealth of benefits that make it a compelling choice for modern web technologies. By empowering users with greater privacy and control, enhancing community interaction, and fostering resilience and censorship resistance, federated systems represent a more open, democratic, and robust approach to digital communication and collaboration.
 
 We encourage you to explore federated projects and consider how they might fit into your digital life or development work. Whether you're a user seeking more control and privacy or a developer interested in expanding your project portfolio or contributing to open, decentralized platforms, the fediverse offers exciting opportunities to engage with and shape the future of the web.
+
+## Further Reading
+
+- [Federated Webrings](https://blog.commune.sh/federated-webrings) – In the glory days of web 1.0, social websites would prominently link out to their digital neighbors via lists known as webrings; magical doorways to an expansive hinterland of digital villages. This article envisions the concept of webrings as collaborative and federated applications.
+
+- [Weird Netizens](https://blog.erlend.sh/weird-netizens) – The article discusses reclaiming digital identity and promoting digital autonomy, criticizing the monopolization of identity by large tech companies and proposing a more decentralized approach. It advocates for a flexible, user-centric approach that allows for multiple personas and easy transitions between identity providers.
+
+- [The Agentic Fediverse](https://github.com/zicklag/agentic-fediverse) – The "Agentic Fediverse" proposes a new kind of federation, envisioning a "second generation" iteration of the concept currently established with ActivityPub. It's a work-in-progress experiment that originated from the [Commune] group.
+
+[ActivityPub]: https://activitypub.rocks
+[Commune]: https://github.com/commune-os
