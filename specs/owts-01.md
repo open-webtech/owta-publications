@@ -8,7 +8,7 @@ The Open WebTech Association (OWTA) advocates for the foundational principles of
 
 This specification outlines technical and structural guidelines that projects and products should adhere to in order to uphold these principles. It serves as a framework to assist developers and companies in aligning their offerings with these core values, fostering a transparent and collaborative digital ecosystem.
 
-Following these guidelines allows projects and products to achieve a certification by OWTA. This ensures and confirms that technologies meet these standards. The full process from application to gaining a certification is described in detail in an external document.
+Following these guidelines allows projects and products to achieve a certification by OWTA. This ensures and confirms that technologies meet these standards. The full process from application to gaining a certification is described in detail in the meta document "[The Certification Process](/meta/certification.md)".
 
 ## Conventions and Definitions
 
